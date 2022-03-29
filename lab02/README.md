@@ -4,4 +4,3 @@
 
 [Notebook](notebook/lab02-java-estruturas-ra247309.ipynb)
 
-
